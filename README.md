@@ -11,8 +11,23 @@
 
 <br />
 
+## ☁️ About The Project ☁️
+
+Jobbie is a mobile application built using React Native and the added tooling functionality of Expo:
+
+All jobs listed within the application are fetched directly from RapidApi.
+
+Some key features include:
+
+    ✅ Be able to fetch and display job listings from various platforms via RapiApi
+
+<br />
+
 ## 🤎 Home Page
 
 <div>
-    coming soon
+  <a href="#">
+    <img src="assets/images/home _screen_1.jpg" alt="home" width="256" height="556">
+  </a>
+  
 </div>
